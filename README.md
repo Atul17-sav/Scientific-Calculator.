@@ -8,9 +8,7 @@ A stylish and interactive scientific calculator built using **HTML**, **CSS**, a
 
 ## 🚀 Live Demo
 
-👉 [Click Here to Try It Online](https://your-username.github.io/scientific-calculator)  
-_(Replace the link after enabling GitHub Pages)_
-
+👉 [Click Here to Try It Online]http://127.0.0.1:3000/index..html
 ---
 
 ## 🎯 Features
