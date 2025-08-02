@@ -36,5 +36,5 @@ A stylish and interactive scientific calculator built using **HTML**, **CSS**, a
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/scientific-calculator.git
+   git clone https://github.com/your-Atul17-sav/scientific-calculator.git
 
